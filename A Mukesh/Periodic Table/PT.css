@@ -1,0 +1,50 @@
+table, tr, td{
+                padding: 10px ;
+                border: 2px solid red;
+                border-collapse: collapse;
+                text-align: center;
+            }
+            th{
+                background-color: rgb(255, 230, 0);
+            }
+            .txtgreen{
+                color: green;
+            }
+            .txtblue{
+                color: blue;
+            }
+            .txtred{
+                color: red;
+            }
+            .txtbrown{
+                color: rgb(194, 72, 16);
+            }
+            .bgaqua{
+                background-color: rgb(122, 199, 199);
+            }
+            .bgtomato{
+                background-color:rgb(236, 122, 102);
+            }
+            .bgltblue{
+                background-color: rgb(190, 190, 190);
+            }
+            .bgltor{
+                background-color: rgb(255, 217, 136);
+            }
+            .bggreen{
+                background-color: rgb(171, 238, 171);
+            }
+            .bgpink{
+                background-color: rgb(248, 226, 229);
+            }
+            .bgbrown{
+                background-color: rgb(197, 139, 84);
+            }
+            .bgpink2{
+                background-color: #e29bc7;   
+            }
+            .bglight{
+                background-color: rgb(245, 245, 245);
+            }
+            .bglt{
+                background-color: rgb(233, 235, 159);

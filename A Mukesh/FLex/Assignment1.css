@@ -1,0 +1,23 @@
+.mainbody{
+    margin: 100px;
+}
+
+.pink{
+    background-color:pink;
+    border-style: none;
+}
+
+.gray{
+    background-color: grey;
+    border-style: none;
+}
+
+.a{
+    display: flex;
+    
+}
+
+.formatting{
+    margin:10px;
+}
+
